@@ -1,1 +1,7 @@
+Here I am trying to implement the OTP verification for the Blog-App-JWT 2 backend app.
 
+I have successfully implemented the OTP, User will be only able to log in after verifying his email address and OTP, till the User will be disabled.
+
+But planning to do it with the Token feature, which is already given by Spring Boot and seems more reliable and secure, it does not allow anybody to expose users to any type of datas.
+
+Also, want to implement a specific time deadline for Email verification .
