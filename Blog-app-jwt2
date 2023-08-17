@@ -4,4 +4,6 @@ I have successfully implemented the OTP, User will be only able to log in after 
 
 But planning to do it with the Token feature, which is already given by Spring Boot and seems more reliable and secure, it does not allow anybody to expose users to any type of datas.
 
-Also, want to implement a specific time deadline for Email verification .
+Also, want to implement a specific time deadline for Email verification.
+
+I am also planning to add updated email funtion 
