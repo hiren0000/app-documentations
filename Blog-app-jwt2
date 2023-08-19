@@ -6,4 +6,8 @@ But planning to do it with the Token feature, which is already given by Spring B
 
 Also, want to implement a specific time deadline for Email verification.
 
-I am also planning to add updated email funtion 
+I am also planning to add an updated email function.
+
+I am working on a function to create a unique token when new user will register, it takes their details and try to make unique 
+token to an active account and that token can be sent through the email 
+
