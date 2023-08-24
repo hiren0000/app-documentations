@@ -16,4 +16,6 @@ secure token.
 
 I have added some methods in user controller to support Email verification.
 
+I am gonna use the OTP function for the forgot password function.
+
 
