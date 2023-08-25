@@ -14,8 +14,10 @@ token to an active account and that token can be sent through the email
 Now Implemented most of the code and after adding the controller function, I can test afterward and it sends me an email with se
 secure token.
 
-I have added some methods in user controller to support Email verification.
+I have added some methods in the user controller to support Email verification.
 
 I am gonna use the OTP function for the forgot password function.
+
+I tried Otp function but it threw some error have to solve the error 
 
 
