@@ -8,6 +8,9 @@ Also, want to implement a specific time deadline for Email verification.
 
 I am also planning to add an updated email function.
 
+may be our image function needs to implemented by byte[]
+and that will help us to fetch from the db as well.
+
 I am working on a function to create a unique token when new user will register, it takes their details and try to make unique 
 token to an active account and that token can be sent through the email 
 
