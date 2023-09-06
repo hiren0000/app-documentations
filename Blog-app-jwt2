@@ -33,4 +33,8 @@ needs to update forgot password function, and also to check whether it working o
 
 I am going to upload the code for forget password.
 
-i need to upload the code tommorow, and 
+i need to upload the code tomorrow.
+
+I have implemented codes to support the forget password function, here Once users tries to attempt forget their password, 
+the system will take their email and check in the system if they exist in db or not. Afterward, if the user is in db then the user will get an email with OTP, 
+which through they can reset their password.
