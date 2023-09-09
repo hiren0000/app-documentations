@@ -35,9 +35,9 @@ I am going to upload the code for forget password.
 
 i need to upload the code tomorrow.
 
-I have implemented codes to support the forget password function, here Once users tries to attempt forget their password, 
+I have implemented codes to support the forget password function, here Once users try to attempt forget their password, 
 the system will take their email and check in the system if they exist in db or not. Afterward, if the user is in db then the user will get an email with OTP, 
 which through they can reset their password.
 
-I am unable to pass the user ID to the component where we trying to reset the password, have to find an alternative way to achieve that, 
-after that, I will be able to reset the password.
+I am unable to pass the user ID to the component where I'm trying to reset the password, have to find an alternative way to achieve that, 
+After that, I will be able to reset the password.
