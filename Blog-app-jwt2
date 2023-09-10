@@ -31,13 +31,16 @@ Also,, need to implement a function to upload and fetch images for posts and use
 
 needs to update forgot password function, and also to check whether it working or not
 
-I am going to upload the code for forget password.
+I am going to upload the code for forgetting the password.
 
-i need to upload the code tomorrow.
+I need to upload the code tomorrow.
 
-I have implemented codes to support the forget password function, here Once users try to attempt forget their password, 
+I have implemented codes to support the forget password function, here Once users try to attempt to forget their password, 
 the system will take their email and check in the system if they exist in db or not. Afterward, if the user is in db then the user will get an email with OTP, 
 which through they can reset their password.
 
 I am unable to pass the user ID to the component where I'm trying to reset the password, have to find an alternative way to achieve that, 
 After that, I will be able to reset the password.
+
+Tried a different way, but even though it did not work out, the system might be throwing an Auth Interceptor is throwing an error 
+due to security functions.
