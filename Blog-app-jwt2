@@ -44,3 +44,6 @@ After that, I will be able to reset the password.
 
 Tried a different way, but even though it did not work out, the system might be throwing an Auth Interceptor is throwing an error 
 due to security functions.
+
+Auth Interceptor is stopping the request, and can not allow resetting a password, it changes the user ID into undefined. That is why Re-set password function is not
+working.
