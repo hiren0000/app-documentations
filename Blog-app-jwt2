@@ -36,7 +36,7 @@ I am going to upload the code for forgetting the password.
 I need to upload the code tomorrow.
 
 I have implemented codes to support the forget password function, here Once users try to attempt to forget their password, 
-the system will take their email and check in the system if they exist in db or not. Afterward, if the user is in db then the user will get an email with OTP, 
+the system will take their email and check in the system if they exist in the db or not. Afterward, if the user is in db then the user will get an email with OTP, 
 which through they can reset their password.
 
 I am unable to pass the user ID to the component where I'm trying to reset the password, have to find an alternative way to achieve that, 
@@ -47,3 +47,5 @@ due to security functions.
 
 Auth Interceptor is stopping the request, and can not allow resetting a password, it changes the user ID into undefined. That is why Re-set password function is not
 working.
+
+will be implementing new logic to support the forgot password function. 
