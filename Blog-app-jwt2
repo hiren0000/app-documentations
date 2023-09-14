@@ -49,3 +49,7 @@ Auth Interceptor is stopping the request, and can not allow resetting a password
 working.
 
 will be implementing new logic to support the forgot password function. 
+
+forget pass function is achieved,
+
+now want to save the image into the db and then want to fetch it back from db in the angular
