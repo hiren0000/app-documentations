@@ -50,6 +50,8 @@ working.
 
 will be implementing new logic to support the forgot password function. 
 
+will be implementing the design in the front end, want to add some designing in home page. 
+
 forget pass function is achieved,
 
 now want to save the image into the db and then want to fetch it back from db in the angular
