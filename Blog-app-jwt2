@@ -57,3 +57,5 @@ forget pass function is achieved,
 now want to save the image into the DB and then fetch it back from the db in the angular
 
 Will make posts visible, users can read without login but if they want to comment or add a new comment they need to have an account and also need to login then only they can do those operations.
+
+Try to add Reset or change password for Admin Role as well
