@@ -56,6 +56,8 @@ forget pass function is achieved,
 
 need to solve the issue with home page
 
+there is some issue whhen I tried to get list of categories, it was not getting accurate info
+
 now want to save the image into the DB and then fetch it back from the db in the angular
 
 Will make posts visible, users can read without login but if they want to comment or add a new comment they need to have an account and also need to login then only they can do those operations.
