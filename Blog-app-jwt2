@@ -62,8 +62,10 @@ now want to save the image into the DB and then fetch it back from the db in the
 
 Will make posts visible, users can read without login but if they want to comment or add a new comment they need to have an account and also need to login then only they can do those operations.
 
-Try to add Reset or change password for Admin Role as well
+Try to add Reset or change the password for the Admin Role as well
 
 
 tried a solution to fetch the list of categories, on the home page, but it did not work out because there is some problem with it,
 that is why it is throwing error and cant fetch all categories 
+
+trying to add image in db but did not work out
