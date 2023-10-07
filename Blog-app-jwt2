@@ -50,22 +50,24 @@ working.
 
 will be implementing new logic to support the forgot password function. 
 
-will be implementing the design in the front end, want to add some designing in home page. 
+will be implementing the design in the front end, and want to add some design on the home page. 
 
 forget pass function is achieved,
 
-need to solve the issue with home page
+need to solve the issue with the home page
 
-there is some issue whhen I tried to get list of categories, it was not getting accurate info
+there is some issue when I tried to get a list of categories, it was not getting accurate info
 
-now want to save the image into the DB and then fetch it back from the db in the angular
+now want to save the image into the DB and then fetch it back from the DB in the angular
 
 Will make posts visible, users can read without login but if they want to comment or add a new comment they need to have an account and also need to login then only they can do those operations.
 
-Try to add Reset or change the password for the Admin Role as well
+Try to Reset or change the password for the Admin Role as well
 
 
 tried a solution to fetch the list of categories, on the home page, but it did not work out because there is some problem with it,
-that is why it is throwing error and cant fetch all categories 
+that is why it is throwing an error and can't fetch all categories 
 
-trying to add image in db but did not work out
+I tried to add an image in db but did not work out
+
+added some designs on the home page and also my blog page
