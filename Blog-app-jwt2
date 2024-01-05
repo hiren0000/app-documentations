@@ -87,3 +87,5 @@ Planning to work on Micro-Service Project from tomorrow
 Checked user API, worked well.
 Checked Category API, worked well as well.
 Modified SubCate API, getting the desired result.
+Added Jwt Security token on both sides
+also added registration and login functions
