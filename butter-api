@@ -1,3 +1,7 @@
+Backend Side:
 Have created API and Front-end
 added Jwt Security with SB6 
-also added Auth guard and Interceptor at front end side.
+
+Front End Side:
+also added an Auth guard and Interceptor at the front end side.
+added product details, categories and subcategories components 
