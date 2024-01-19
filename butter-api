@@ -4,4 +4,13 @@ added Jwt Security with SB6
 
 Front End Side:
 also added an Auth guard and Interceptor at the front end side.
-added product details, categories and subcategories components 
+added product details, categories and subcategory components 
+
+Remaining Tasks:
+List of categories
+List of subcategories
+List of products
+Product Image
+
+User-dashboard: 
+
