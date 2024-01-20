@@ -6,11 +6,14 @@ Front End Side:
 also added an Auth guard and Interceptor at the front end side.
 added product details, categories and subcategory components 
 
-Remaining Tasks:
+Remaining Tasks: ======---------------------------------------==============================*************************==================================================
 List of categories
 List of subcategories
 List of products
 Product Image
 
 User-dashboard: 
-
+List of products
+list of categories
+list of subcategories 
+product image 
