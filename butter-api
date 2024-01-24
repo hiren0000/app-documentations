@@ -1,6 +1,7 @@
 Backend Side:
 Have created API and Front-end
 added Jwt Security with SB6 
+Role-Authentications implemented Admin and User roles 
 
 Front End Side:
 also added an Auth guard and Interceptor at the front end side.
