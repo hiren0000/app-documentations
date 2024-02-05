@@ -5,16 +5,22 @@ Role-Authentications implemented Admin and User roles
 
 Front End Side:
 also added an Auth guard and Interceptor at the front end side.
-added product details, categories and subcategory components 
+added product details, categories, and subcategory components 
 
 Remaining Tasks: ======---------------------------------------==============================*************************==================================================
 List of categories
 List of subcategories
 List of products
-Product Image
+
+Product Image 
+Admin can successfully add the multiple images into DB
 
 User-dashboard: 
 List of products
 list of categories
 list of subcategories 
 product image 
+
+Orders:
+Delivery status
+
