@@ -13,7 +13,7 @@ List of subcategories
 List of products
 
 Product Image 
-Admin can successfully add the multiple images into DB
+Admin can successfully add multiple images to DB
 
 User-dashboard: 
 List of products
@@ -23,4 +23,12 @@ product image
 
 Orders:
 Delivery status
+
+Completed tasks:
+Jwt Authentication
+Auth guard
+Interceptor
+Product API
+Category API
+SubCategory API
 
