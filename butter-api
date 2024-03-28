@@ -16,6 +16,9 @@ Product Image
 Admin can successfully add multiple images to DB
 admin can also fetch all the images and also can display those on the list-of-product page
 
+error:
+home page, fetching images is not working, url not working 
+
 User-dashboard: 
 List of products
 list of categories
